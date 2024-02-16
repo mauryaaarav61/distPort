@@ -1,26 +1,46 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "S Mart",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["html","Styled Comp.","React.js"],
+    "demo": "https://react-ecom-s-mart.vercel.app/",
+    "source": "https://github.com/mauryaaarav61/react_ecom_s-mart"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Library management",
+    "description": "This website for Library management ",
+    "skills": ["javaScript","html/css", "Express", "Node","mongoDb"],
+    "demo": "https://library-management-six-wine.vercel.app/",
+    "source": "https://github.com/mauryaaarav61/libraryManagement"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Universal News",
+    "description": " Here user can see Real time  world wide News",
+    "skills": ["html/css", "javaScript"],
+    "demo": "https://newsweb-iota.vercel.app/",
+    "source": "https://github.com/mauryaaarav61/newsweb"
+  },
+  {
+    "title": "Dictionery App",
+    "description": " Here user can find details of any kind of words",
+    "skills": ["html/css", "React.js"],
+    "demo": "https://dictionery-using-react.vercel.app/",
+    "source": "https://github.com/mauryaaarav61/dictionery-using-react"
+  },
+  {
+    "title": "imdb clone",
+    "description": " Here user can find details of any kind of words",
+    "skills": ["html/css", "React.js"],
+    "demo": "https://github.com/mauryaaarav61/imdbc",
+    "source": "https://github.com/mauryaaarav61/imdbc"
+  },
+  {
+    "title": "A Teach Solutions",
+    "description": " This is my Dreem Project That will make a revolution in It industry",
+    "skills": ["html/css", "React.js","node.js","mongoDB"],
+    "demo": "",
+    "source": ""
   }
 ]
+
+

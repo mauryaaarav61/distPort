@@ -13,15 +13,17 @@
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 40px; 
   font-weight: 700;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 22px; 
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+  cursor: pointer;
 }
 
 .links {
@@ -29,7 +31,12 @@
   flex-direction: column;
   align-items: flex-start;
   list-style: none;
-  gap: 26px;
+  gap: 20px;
+}
+i{
+  padding: -0px 5px;
+
+
 }
 
 .link {
@@ -41,9 +48,9 @@
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 24px; 
   font-weight: 400;
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
 }
 
 @media screen and (max-width: 830px) {
@@ -60,5 +67,8 @@
 
   .links {
     align-items: center;
+  }
+  #contact{
+    padding: 0rem 1rem;
   }
 }
